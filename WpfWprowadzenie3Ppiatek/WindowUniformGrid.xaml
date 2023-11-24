@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="WindowUniformGrid" Height="450" Width="800">
     <UniformGrid Columns="2">
+        <!--
+        siatka
+        -->
         <Button>1</Button>
         <Button>2</Button>
         <Button>3</Button>
